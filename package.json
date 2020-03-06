@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/invincibleamitsingh/Nexter.git"
   },
-  "author": "Jonas",
+  "author": "Amit Singh",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^7.1.4",
